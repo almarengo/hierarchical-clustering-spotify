@@ -1,0 +1,104 @@
+,track_name,artist,album name,energy,liveness,tempo,speechiness,acousticness,danceability,instrumentalness,loudness,valence,mode,type,uri
+0,Twenty Seven,Lagwagon,Double Plaidinum (Reissue),0.811,0.144,95.698,0.0359,0.000703,0.358,0.0,-6.877,0.594,1,audio_features,spotify:track:07vLuLVwrVeAUm3Rxj518H
+1,Learn To Live,Alice Merton,Mint,0.698,0.0912,136.984,0.0378,0.0832,0.673,1.17e-05,-4.492,0.741,0,audio_features,spotify:track:0pDeiddexP7L7a3q8FwBqO
+2,2 Kids,Alice Merton,Mint,0.66,0.143,84.028,0.0673,0.468,0.699,0.0,-4.474,0.507,1,audio_features,spotify:track:1JXbhqNcOLArMDgeI1MBe3
+3,No Roots,Alice Merton,Mint,0.657,0.0713,115.958,0.105,0.264,0.863,0.00619,-7.295,0.829,1,audio_features,spotify:track:6gqW48WKOxrBEG2KfShI8W
+4,Funny Business,Alice Merton,Mint,0.653,0.158,103.789,0.0447,0.036,0.625,5.62e-06,-4.413,0.477,1,audio_features,spotify:track:50B1PVWbakumorzP54YvK2
+5,Homesick,Alice Merton,Mint,0.598,0.0925,94.018,0.0788,0.555,0.546,0.0,-5.645,0.601,1,audio_features,spotify:track:0ncE0dZPetRuiJbtvK9OgE
+6,Lash Out,Alice Merton,Mint,0.77,0.133,128.005,0.0531,0.0264,0.744,1.27e-05,-4.071,0.901,0,audio_features,spotify:track:0h4IpWawLSTLTwd2zDeftz
+7,Speak Your Mind,Alice Merton,Mint,0.514,0.108,138.093,0.0394,0.127,0.745,0.0,-6.883,0.684,0,audio_features,spotify:track:4VEfmkZPQWQ7fdcWvpRvgX
+8,I Don’t Hold A Grudge,Alice Merton,Mint,0.528,0.34,119.917,0.0543,0.068,0.744,0.0,-5.174,0.757,0,audio_features,spotify:track:4S9u37KVYDopznUoioaMMk
+9,Honeymoon Heartbreak,Alice Merton,Mint,0.361,0.0798,134.753,0.0293,0.583,0.609,0.0,-6.072,0.138,0,audio_features,spotify:track:1C3EOVC0KQ0tQKlof2cWz5
+10,Trouble In Paradise,Alice Merton,Mint,0.724,0.113,119.989,0.0568,0.177,0.762,0.0,-4.371,0.652,1,audio_features,spotify:track:6WTBhKvFEIkOQcNb72KMod
+11,Why So Serious,Alice Merton,Mint,0.46,0.11,108.01,0.0575,0.269,0.856,1.07e-06,-7.481,0.705,1,audio_features,spotify:track:6v48qTk0yzWneiNCS4T8co
+12,Time Marches On,Pennywise,Land Of The Free?,0.932,0.327,101.85,0.075,0.000328,0.34,0.322,-3.758,0.67,1,audio_features,spotify:track:7I44d8wbsWdByMs5fxymfQ
+13,Land of the Free?,Pennywise,Land Of The Free?,0.95,0.243,89.913,0.0723,9.79e-05,0.45,0.0175,-3.332,0.87,1,audio_features,spotify:track:2tfuiYUAllKUVusfEu9Lpi
+14,The World,Pennywise,Land Of The Free?,0.961,0.302,147.323,0.114,0.000352,0.302,0.000156,-2.632,0.676,1,audio_features,spotify:track:2WD64H3EBdbIisfP34X0ea
+15,Fuck Authority,Pennywise,Land Of The Free?,0.937,0.379,101.922,0.0504,0.000887,0.45,0.00457,-2.819,0.791,0,audio_features,spotify:track:3Id64dLhfH7z0mmcylxuNp
+16,Something Wrong With Me,Pennywise,Land Of The Free?,0.973,0.172,170.809,0.0963,0.000193,0.244,0.00102,-3.15,0.447,1,audio_features,spotify:track:0WGKwo98neAoQ5RmQm49Ee
+17,Enemy,Pennywise,Land Of The Free?,0.944,0.0996,108.622,0.0686,0.00119,0.433,0.00565,-3.598,0.761,1,audio_features,spotify:track:0EmZDU6MSncDEO9vl3itZb
+18,My God,Pennywise,Land Of The Free?,0.962,0.134,161.244,0.0768,0.000452,0.248,0.343,-3.505,0.72,1,audio_features,spotify:track:4dJfBTMmCIfHmzqaj8Or7L
+19,Twist of Fate,Pennywise,Land Of The Free?,0.934,0.292,117.943,0.0854,0.000999,0.312,0.0066,-3.916,0.716,0,audio_features,spotify:track:267EaiJFH76u30ROlmXDlv
+20,Who's On Your Side,Pennywise,Land Of The Free?,0.965,0.131,152.911,0.113,6.12e-05,0.266,0.789,-3.024,0.399,0,audio_features,spotify:track:36vOqqMVekuyYmYaFV6YAE
+21,It's Up to You,Pennywise,Land Of The Free?,0.926,0.136,200.576,0.0642,0.000761,0.197,0.0112,-4.108,0.604,1,audio_features,spotify:track:0iERVoJaWupEAMO2e2594W
+22,Set Me Free,Pennywise,Land Of The Free?,0.887,0.321,96.078,0.0832,0.00413,0.358,0.000171,-3.311,0.723,1,audio_features,spotify:track:0d0HTavHGjbab0mScSJjB7
+23,Divine Intervention,Pennywise,Land Of The Free?,0.925,0.201,160.538,0.0705,0.00095,0.391,0.000266,-3.196,0.649,0,audio_features,spotify:track:2Ca4D4EMh9sFHvNcsAP59k
+24,WTO,Pennywise,Land Of The Free?,0.98,0.0545,171.272,0.0602,3.05e-05,0.236,0.00735,-3.679,0.868,0,audio_features,spotify:track:0DH3jgFWNEH6ghZY485moo
+25,Anyone Listening,Pennywise,Land Of The Free?,0.955,0.113,152.165,0.065,0.000465,0.391,4.48e-05,-2.789,0.693,0,audio_features,spotify:track:59TQ0HJDZk9c2shbaj6JlX
+26,Shaving Your Life,Mad Caddies,Rock the Plank,0.983,0.603,134.071,0.0846,0.00134,0.265,5.05e-05,-2.444,0.477,0,audio_features,spotify:track:06RPGKxH0yIxqMwPT3GdbS
+27,Mary Melody,Mad Caddies,Rock the Plank,0.903,0.28,135.044,0.051,0.00596,0.467,1.62e-06,-4.237,0.571,1,audio_features,spotify:track:209Qd0Mmb1w6yKF07DKPBp
+28,B-Side,Mad Caddies,Rock the Plank,0.865,0.327,156.107,0.0778,0.0026,0.367,0.0,-4.132,0.415,0,audio_features,spotify:track:4DXbDt8zSk9qX84IMnZg2L
+29,Days Away,Mad Caddies,Rock the Plank,0.819,0.189,171.469,0.0547,0.00943,0.55,0.0,-4.946,0.707,0,audio_features,spotify:track:3FiQaLr2SzTwyvBBLIXoj4
+30,Bridges,Mad Caddies,Rock the Plank,0.966,0.0995,120.614,0.0557,0.000139,0.323,4.14e-05,-3.696,0.484,0,audio_features,spotify:track:3j6ytX6gjkTCunxwy9iEG4
+31,We'll Start to Worry When the Cynics Start Believing,Mad Caddies,Rock the Plank,0.919,0.0918,113.639,0.0372,0.0222,0.511,0.00131,-4.765,0.649,0,audio_features,spotify:track:0Ju9HQahwUpvkXWUSBYKiW
+32,Weird Beard,Mad Caddies,Rock the Plank,0.657,0.0442,119.004,0.131,0.167,0.556,0.0,-6.261,0.707,0,audio_features,spotify:track:2Q0dushaDSMplO0MudDEPD
+33,Easy Cheese,Mad Caddies,Rock the Plank,0.887,0.0616,172.541,0.0923,0.0037,0.305,0.0,-3.533,0.71,1,audio_features,spotify:track:5pOk36HxO0Jo0u5XMcIA7j
+34,Hound Bound,Mad Caddies,Rock the Plank,0.963,0.285,168.459,0.0747,0.00174,0.462,1.26e-06,-4.385,0.809,0,audio_features,spotify:track:6uQEPjSb48zPEnYWk5vB29
+35,Depleted Salvo,Mad Caddies,Rock the Plank,0.97,0.0393,90.038,0.0734,0.00727,0.376,1.62e-05,-2.391,0.37,1,audio_features,spotify:track:2el6Tuy0geKmDmNykw9bfx
+36,Chevy Novacaine,Mad Caddies,Rock the Plank,0.871,0.0736,87.776,0.0316,0.00588,0.493,2.05e-05,-3.86,0.808,1,audio_features,spotify:track:4UNmqFSsbsIwMB6ABH92tc
+37,Booze Cruise,Mad Caddies,Rock the Plank,0.942,0.0912,140.431,0.0739,0.00103,0.356,2.2e-06,-2.974,0.544,1,audio_features,spotify:track:78GAtM5S4tLE1YeNGkzZ9P
+38,All American Badass,Mad Caddies,Rock the Plank,0.744,0.337,132.298,0.035,0.0711,0.624,1.91e-05,-5.089,0.97,1,audio_features,spotify:track:3Yso1cRE6jIVWIHii5FSWt
+39,Trendy,Reel Big Fish,Turn The Radio Off,0.921,0.773,106.034,0.165,0.0288,0.513,7.14e-06,-7.19,0.743,1,audio_features,spotify:track:3b6xkiO8O4Jvb6N0X06mTF
+40,Join the Club,Reel Big Fish,Turn The Radio Off,0.612,0.25,109.934,0.154,0.00864,0.619,0.000139,-8.943,0.752,1,audio_features,spotify:track:4bpXDEqzHk8Fiv8Re4r5ar
+41,"Snoop Dog, Baby",Reel Big Fish,Turn The Radio Off,0.782,0.0684,114.065,0.0383,0.0363,0.667,0.000269,-6.693,0.886,1,audio_features,spotify:track:6AQrO5X7b3RzQIFeDLSYZh
+42,241,Reel Big Fish,Turn The Radio Off,0.614,0.0616,138.786,0.0544,0.0134,0.729,0.414,-7.236,0.964,0,audio_features,spotify:track:4mxff4HQLQ1fMEUvwblzst
+43,Everything Sucks,Reel Big Fish,Turn The Radio Off,0.883,0.0656,105.178,0.129,0.00952,0.651,4.08e-05,-7.02,0.92,1,audio_features,spotify:track:53Px3xamtxdA25Sq8fXv4A
+44,Skatanic,Reel Big Fish,Turn The Radio Off,0.775,0.138,101.488,0.158,0.00369,0.41,0.128,-8.278,0.447,0,audio_features,spotify:track:4kEgOi4hngL7vmNRBdKCbu
+45,All I Want Is More,Reel Big Fish,Turn The Radio Off,0.767,0.0618,145.886,0.0664,0.00665,0.427,0.00029,-7.503,0.792,1,audio_features,spotify:track:68LSiLwIT287bDqfqbT8eq
+46,Nothin',Reel Big Fish,Turn The Radio Off,0.841,0.3,165.233,0.136,0.00284,0.374,0.0,-7.259,0.799,1,audio_features,spotify:track:5yG0ZhfkHHgm7937u0uQQp
+47,Say Ten,Reel Big Fish,Turn The Radio Off,0.882,0.0295,104.761,0.189,0.0152,0.591,0.00342,-7.147,0.912,1,audio_features,spotify:track:0tBVx67CLned8W85wPAuqT
+48,I'll Never Be,Reel Big Fish,Turn The Radio Off,0.835,0.163,99.812,0.0614,0.00236,0.634,0.00318,-7.454,0.847,1,audio_features,spotify:track:1OKK3rP8LiRCc0o9EwusCc
+49,Alternative Baby,Reel Big Fish,Turn The Radio Off,0.834,0.158,106.548,0.13,0.0165,0.595,3.77e-05,-7.307,0.959,1,audio_features,spotify:track:0hx7G6WWGpvz1wbQqFhZix
+50,Clearvoyance,Gogol Bordello,Seekers and Finders,0.492,0.078,132.817,0.0344,0.169,0.681,1.32e-05,-10.487,0.551,0,audio_features,spotify:track:7JWv01Dn7VgHFu2mLbDSfa
+51,Saboteur Blues,Gogol Bordello,Seekers and Finders,0.92,0.0827,154.29,0.0886,0.0013,0.287,6.66e-05,-4.837,0.525,0,audio_features,spotify:track:7cOYcgG1fSZZNT99MHFkpt
+52,Young and Lazy,The Matinee,We Swore We'd See The Sunrise,0.747,0.121,96.994,0.0275,1.83e-05,0.509,0.000246,-4.616,0.623,1,audio_features,spotify:track:1Sumk9u8uOlWUSOP8GebJn
+53,Labsinthe,The Matinee,We Swore We'd See The Sunrise,0.908,0.0887,117.039,0.0447,0.00229,0.564,0.0,-4.832,0.575,1,audio_features,spotify:track:0NGBQQMwqMqfn1ixvQHDBx
+54,The Road,The Matinee,We Swore We'd See The Sunrise,0.721,0.139,100.111,0.0289,0.000362,0.588,2.75e-05,-6.123,0.558,1,audio_features,spotify:track:7CmbMxLLHppJo42O5tw7Qs
+55,Sweetwater,The Matinee,We Swore We'd See The Sunrise,0.928,0.0982,119.994,0.0651,0.0063,0.629,0.0,-5.61,0.3,1,audio_features,spotify:track:3N80DdQbIVJSd8wRBVLDCA
+56,Who Stoned The Roses,The Matinee,We Swore We'd See The Sunrise,0.698,0.111,78.96,0.0292,0.128,0.514,2.85e-06,-5.784,0.327,0,audio_features,spotify:track:5VTi0t6iFCdNO3RqTMKPej
+57,Long Way Home,The Matinee,We Swore We'd See The Sunrise,0.83,0.136,151.859,0.0316,0.000488,0.429,1.07e-06,-4.821,0.608,1,audio_features,spotify:track:4KbzudBobRFd2pzQHSTDRx
+58,The Sinking Of The Greenhill Park,The Matinee,We Swore We'd See The Sunrise,0.333,0.101,150.976,0.0286,0.695,0.366,6.77e-05,-8.311,0.188,1,audio_features,spotify:track:2PEGfcm2zxU8qXydTXySNO
+59,This Town,The Matinee,We Swore We'd See The Sunrise,0.795,0.196,92.13,0.0289,0.000439,0.455,0.0024,-6.48,0.52,1,audio_features,spotify:track:6CZVbb9PoMyigEDtjDEKav
+60,December Slumber,The Matinee,We Swore We'd See The Sunrise,0.547,0.309,159.952,0.0308,0.514,0.414,0.00683,-8.156,0.199,1,audio_features,spotify:track:5AUQm7ULnp8oDqr9usc3fK
+61,Let Her Go,The Matinee,We Swore We'd See The Sunrise,0.905,0.219,151.06,0.0648,0.00569,0.464,0.000272,-4.42,0.515,0,audio_features,spotify:track:5OVZiD9d24sbM5VjHJsh7g
+62,On Our Own,The Matinee,We Swore We'd See The Sunrise,0.805,0.0377,136.017,0.0453,0.00896,0.578,0.0,-7.224,0.464,1,audio_features,spotify:track:2jo6940SNpltRW4xiEVCsE
+63,Ni Fu Ni Fa,Ska-P,Lagrimas Y Gozos,0.972,0.158,105.999,0.0415,0.0176,0.729,6.51e-05,-2.731,0.945,1,audio_features,spotify:track:4zym5kQyHls6e5JZxm6UtO
+64,El Libertador,Ska-P,Lagrimas Y Gozos,0.919,0.144,158.009,0.0376,0.00129,0.636,1.08e-05,-3.351,0.965,1,audio_features,spotify:track:020gYX38PL6yo2VU6vBjU3
+65,Crimen Sollicitationis,Ska-P,Lagrimas Y Gozos,0.956,0.117,158.014,0.0556,0.0337,0.651,0.0,-2.801,0.829,0,audio_features,spotify:track:7AqVXLf0mZA3s7SnNBiHz3
+66,Fuego y Miedo,Ska-P,Lagrimas Y Gozos,0.956,0.0915,151.941,0.0429,0.0022,0.534,1.88e-06,-2.557,0.735,0,audio_features,spotify:track:1xTQ4CCk6odaT8S0aANviD
+67,La Colmena,Ska-P,Lagrimas Y Gozos,0.976,0.0842,185.994,0.158,0.0174,0.579,0.0,-3.026,0.642,1,audio_features,spotify:track:6f9v2X0ovJiXCVrBY8S9mU
+68,Gasta Claus,Ska-P,Lagrimas Y Gozos,0.973,0.0735,104.011,0.0347,0.0153,0.68,3.79e-06,-2.119,0.872,1,audio_features,spotify:track:5JglvyVS3ciA7s3HIhiupo
+69,El Imperio Caerá,Ska-P,Lagrimas Y Gozos,0.978,0.273,100.068,0.0531,0.00276,0.645,0.0,-2.02,0.923,1,audio_features,spotify:track:5DhTiahigCluhAsnnQLCJG
+70,Los Hijos Bastardos De La Globalización,Ska-P,Lagrimas Y Gozos,0.871,0.166,98.018,0.0384,0.0298,0.71,0.0,-3.398,0.815,1,audio_features,spotify:track:5CyFqbXTpMHFaYwgCNhwnK
+71,Vándalo,Ska-P,Lagrimas Y Gozos,0.976,0.102,192.112,0.0973,0.00114,0.493,0.0,-2.263,0.802,0,audio_features,spotify:track:2hywe7VVFl9avtSLpFsgwZ
+72,El Tercero De La Foto,Ska-P,Lagrimas Y Gozos,0.951,0.133,160.019,0.0532,0.0799,0.694,2.45e-06,-2.811,0.915,1,audio_features,spotify:track:6hIdIYbvRzXOLpePGPhnnq
+73,Decadencia,Ska-P,Lagrimas Y Gozos,0.995,0.181,117.027,0.063,0.000792,0.632,0.0,-2.427,0.648,1,audio_features,spotify:track:3jYxIntPES2triQLMKbaMC
+74,Qué Puedo Decir,Ska-P,Lagrimas Y Gozos,0.687,0.156,134.016,0.0316,0.016,0.79,9.27e-06,-4.329,0.919,0,audio_features,spotify:track:4pBjMInhLm2jaLgPMzgHkH
+75,Wild Spain,Ska-P,Lagrimas Y Gozos,0.905,0.0613,154.042,0.0335,0.00711,0.76,1.41e-05,-3.364,0.93,1,audio_features,spotify:track:5PxfUfnLfar9dB33FCT0Gy
+76,Cannabis,Ska-P,Todo Ska-p,0.888,0.122,120.895,0.0522,0.142,0.564,6.51e-06,-3.884,0.952,1,audio_features,spotify:track:08350agKJtH71uTnZw1ngS
+77,Sexo y Religión,Ska-P,Todo Ska-p,0.959,0.0955,102.949,0.084,0.0113,0.675,0.0,-3.479,0.51,0,audio_features,spotify:track:4C6fOp6jcUDjWhhytsSMw9
+78,El Vals del Obrero,Ska-P,Todo Ska-p,0.879,0.172,101.983,0.0814,0.0383,0.467,1.25e-06,-3.941,0.635,1,audio_features,spotify:track:7vjywEvwYqPyCGZBgOjvLH
+79,España Va Bien,Ska-P,Todo Ska-p,0.959,0.428,148.15,0.049,0.0344,0.437,1.76e-05,-3.46,0.97,1,audio_features,spotify:track:5V74r95JEpsStXRGpr4a91
+80,Niño Soldado,Ska-P,Todo Ska-p,0.973,0.106,110.988,0.0857,0.000552,0.61,0.00013,-3.703,0.609,1,audio_features,spotify:track:5S2dvQA66jAlxiJIBCES6E
+81,A la Mierda,Ska-P,Todo Ska-p,0.874,0.162,187.999,0.0818,0.00203,0.376,1.9e-05,-4.728,0.473,1,audio_features,spotify:track:7LfaPn6zLTHRtjxBeXmZ3C
+82,Crimen Sollicitationis,Ska-P,Todo Ska-p,0.932,0.113,158.026,0.0494,0.0304,0.625,0.0,-4.258,0.844,0,audio_features,spotify:track:1vB9H6Yxt4hSMaOSkp3s1N
+83,Vergüenza,Ska-P,Todo Ska-p,0.949,0.338,105.06,0.15,0.0156,0.65,4.72e-06,-4.293,0.614,0,audio_features,spotify:track:4rYVVllAPad5joTsJNG1pp
+84,Romero el Madero,Ska-P,Todo Ska-p,0.912,0.257,142.15,0.0368,0.0602,0.55,0.000175,-3.37,0.907,1,audio_features,spotify:track:3zJex4MhUlldtnWBXYvxIS
+85,Simpatico Holgazan,Ska-P,Todo Ska-p,0.919,0.0318,153.971,0.053,0.121,0.606,2.98e-05,-2.99,0.733,1,audio_features,spotify:track:1ETvLB9zDiuQObq9lG3tmc
+86,Mis Colegas,Ska-P,Todo Ska-p,0.956,0.0896,163.821,0.0478,0.00138,0.523,2.28e-06,-2.532,0.678,1,audio_features,spotify:track:0MIlDpIN7ZvXRICAGCDhxr
+87,El Libertador,Ska-P,Todo Ska-p,0.922,0.155,157.993,0.0435,0.000937,0.614,4.53e-06,-3.9,0.963,1,audio_features,spotify:track:6GuHYYq248OibVkD0DpF6y
+88,Tio Sam,Ska-P,Todo Ska-p,0.936,0.342,178.048,0.0808,0.0295,0.509,0.0,-3.408,0.799,1,audio_features,spotify:track:4TaQKvGO74kGkj4EqbHGpf
+89,El Gato Lopez - Directo,Ska-P,Todo Ska-p,0.993,0.971,110.988,0.0601,0.00167,0.686,1.3e-05,-3.352,0.601,1,audio_features,spotify:track:4QHZ0cSTdH1NlYxvHy2PyE
+90,La Colmena,Ska-P,Todo Ska-p,0.973,0.0779,93.039,0.106,0.0158,0.662,0.0,-3.608,0.66,1,audio_features,spotify:track:0mf3LjTcSwSWJJezjgMerp
+91,Paramilitar,Ska-P,Todo Ska-p,0.957,0.0389,109.052,0.0555,0.0302,0.657,1.79e-05,-2.98,0.736,1,audio_features,spotify:track:6Gdg0obp1T1betyvUZkO1r
+92,Intifada,Ska-P,Todo Ska-p,0.977,0.363,110.044,0.0725,0.000856,0.632,6.75e-06,-3.682,0.647,1,audio_features,spotify:track:7HZn2I8IIgZ9h7QnPr8q90
+93,Juan Sin Tierra,Ska-P,Todo Ska-p,0.804,0.0871,157.099,0.109,0.0664,0.37,0.0,-4.2,0.65,1,audio_features,spotify:track:2aooSx473E12ilWigncmHe
+94,Wild Spain,Ska-P,Todo Ska-p,0.887,0.0397,154.014,0.033,0.00714,0.747,1.36e-05,-3.904,0.925,1,audio_features,spotify:track:1hfaVR3RRNx8ws0vxwyuRn
+95,The Mirror And The Ripper,Volbeat,Beyond Hell / Above Heaven,0.932,0.31,121.448,0.0737,0.000507,0.339,0.00141,-4.673,0.581,0,audio_features,spotify:track:3axMWDdxMgHo6fMT7VuGcd
+96,7 Shots,Volbeat,Beyond Hell / Above Heaven,0.929,0.119,114.113,0.0914,4.12e-05,0.289,0.000284,-3.802,0.254,0,audio_features,spotify:track:2guw2DgZBLrLNeHRbsMNCt
+97,A New Day,Volbeat,Beyond Hell / Above Heaven,0.72,0.077,83.02,0.0619,0.000612,0.398,1.32e-05,-4.604,0.64,0,audio_features,spotify:track:2PoT4sxfp0M5lqvCV4XMfr
+98,A Warrior's Call,Volbeat,Beyond Hell / Above Heaven,0.903,0.244,109.118,0.0825,0.00075,0.374,5.85e-06,-4.49,0.429,1,audio_features,spotify:track:0hTiTU0yqthnByyZDD3bcc
+99,Magic Zone,Volbeat,Beyond Hell / Above Heaven,0.881,0.0964,81.585,0.0492,0.000249,0.225,0.000275,-4.091,0.235,1,audio_features,spotify:track:33IL6Zl9yKTAgqWdJlbMFd
+100,Kupi,Dubioza kolektiv,Apsurdistan,0.706,0.39,93.045,0.114,0.34,0.853,0.0,-5.466,0.837,0,audio_features,spotify:track:7frKvWb1d9K6MTlNRAMGwP
+101,Kp Dom,Dubioza kolektiv,Apsurdistan,0.605,0.217,89.987,0.355,0.295,0.738,0.0,-5.832,0.744,1,audio_features,spotify:track:7nXmuuukOt7nIok529mnOn
+102,Kazu (Audio Infunktion Remix),Dubioza kolektiv,Apsurdistan,0.949,0.306,170.007,0.0482,0.0019,0.535,1.33e-05,-6.571,0.828,0,audio_features,spotify:track:5wx6hE3hqIGVTidEHelIlU
